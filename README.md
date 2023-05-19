@@ -1,11 +1,11 @@
 <h1 align="center">Github Metrics </h1><p align="center">
-<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastndev&theme=github_dark" />
+<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maironcuello&theme=github_dark" />
 </p>
 
 #
 
 <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=maironcuello&theme=tokyonight_duo&hide_border=true"
 </p>
   
   #
